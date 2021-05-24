@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "312689051729",
+    "project_id": "chatapp-df179",
+    "storage_bucket": "chatapp-df179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312689051729:android:26885fedfe4bf979dbd070",
+        "android_client_info": {
+          "package_name": "com.tanmay.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312689051729-6t7rqgv6ig9o33abbqglni7ob5g8m0au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanmay.chatapp",
+            "certificate_hash": "58048d6f2ca52243bd5dbfb84d27bd0bbabebb7c"
+          }
+        },
+        {
+          "client_id": "312689051729-j803s6sll7g5k0qo5ct4sjgpat90hnj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uCLqlPl_RLSR6RH7wDCc4bBq5oOQqPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312689051729-j803s6sll7g5k0qo5ct4sjgpat90hnj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

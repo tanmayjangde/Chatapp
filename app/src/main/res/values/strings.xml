@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="secondsRemaining">Seconds Remaining: %d</string>
+    <string name="enter_6_digit_code">Enter 6-digit code</string>
+</resources>
